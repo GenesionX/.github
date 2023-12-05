@@ -7,13 +7,23 @@
 
 </div>
 
-## About
+---------------------------
+
+## About Us
 - 
+
+------------------------------
 
 ## Member
 
 ### <a href="https://github.com/haruster">Haruster</a>
 ### <a href="https://github.com/staypros">Staypros</a>
 ### <a href="https://github.com/athroe">Athroe</a>
+
+----------------------------------
+
+## Skills 
+
+
 
 
