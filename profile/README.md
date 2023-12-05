@@ -24,7 +24,7 @@
 
 ## Skills 
 
-- We are studying the following things.
+- <b> We are studying the following things. </b>
 
 #### >  Pwnable
 #### >  Webhacking
