@@ -16,13 +16,24 @@
 
 ## Member
 
-### <a href="https://github.com/haruster">Haruster</a>
-### <a href="https://github.com/staypros">Staypros</a>
-### <a href="https://github.com/athroe">Athroe</a>
+### <a href="https://github.com/haruster">Haruster</a> : Pwnable & Webhacking & Mobile Hacking & Cryptography & Smart Contracts Hacking
+### <a href="https://github.com/staypros">Staypros</a> : Pwnable & Mobile Hacking & Smart Contracts Hacking
+### <a href="https://github.com/athroe">Athroe</a> : CERT & Network Security Engineer
 
 ----------------------------------
 
 ## Skills 
+
+- We are studying the following things.
+
+#### Pwnable
+#### Webhacking
+#### Mobile Hacking
+#### Cryptography
+#### Smart Contracts Hacking
+
+
+
 
 
 
