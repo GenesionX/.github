@@ -17,7 +17,7 @@
 ## Member
 
 ### <a href="https://github.com/haruster">Haruster</a> : Webhacking & Pwnable & Mobile Hacking & Cryptography & Smart Contracts Hacking
-### <a href="https://github.com/staypros">Staypros</a> : Pwnable & Mobile Hacking & Smart Contracts Hacking
+### <a href="https://github.com/staypros">Staypros</a> : Webhacking & Mobile Hacking & Smart Contracts Hacking
 ### <a href="https://github.com/athroe">Athroe</a> : CERT & Network Security Engineer
 
 ----------------------------------
