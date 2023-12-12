@@ -27,7 +27,7 @@
 - <b> We are studying the following things. </b>
 
 #### >  Webhacking
-#### >  Pwnable
+#### >  Reversing
 #### > Mobile Hacking
 #### > Cryptography
 #### > Smart Contracts Hacking
