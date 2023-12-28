@@ -16,9 +16,9 @@
 
 ## Member
 
-### <a href="https://github.com/haruster">Haruster</a> : Pwnable & Webhacking & Mobile Hacking & Cryptography & Smart Contracts Hacking & Forensic
-### <a href="https://github.com/Hina0731">Hina</a> : Pwnable & Webhacking & Mobile Hacking & Smart Contracts Hacking
-### <a href="https://github.com/staypros">Staypros</a> : Webhacking & Mobile Hacking & Smart Contracts Hacking
+### <a href="https://github.com/haruster">Haruster</a> : Reversing & Webhacking & Pwnable  Mobile Hacking & Cryptography & Smart Contracts Hacking & Forensic
+### <a href="https://github.com/Hina0731">Hina</a> : Pwnable & Reversing & Webhacking & Mobile Hacking & Smart Contracts Hacking & Mobile Hacking
+### <a href="https://github.com/staypros">Staypros</a> : Reversing & Webhacking & Mobile Hacking & Smart Contracts Hacking
 ### <a href="https://github.com/athroe">Athroe</a> : CERT & Network Security Engineer
 
 ----------------------------------
@@ -27,8 +27,9 @@
 
 - <b> We are studying the following things. </b>
 
-#### >  Pwnable
+#### >  Reversing
 #### >  Webhacking
+#### >  Pwnable
 #### > Smart Contracts Hacking
 #### > Forensic
 #### > Mobile Hacking
