@@ -27,12 +27,11 @@
 
 - <b> We are studying the following things. </b>
 
-#### >  Reversing
-#### >  Webhacking
-#### >  Pwnable
+#### > Reversing
+#### > Webhacking
+#### > Pwnable
 #### > Smart Contracts Hacking
 #### > Forensic
-#### > Mobile Hacking
 #### > Cryptography
 
 
